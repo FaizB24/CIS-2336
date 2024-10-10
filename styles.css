@@ -1,0 +1,14 @@
+/* Set the background color of the screen to red */
+body {
+    background-color: #ff4d4d;
+}
+
+/* Set the font style for the header to a sans-serif font */
+h1 {
+    font-family: Arial, sans-serif;
+}
+
+/* Add a 20px margin to the table */
+table {
+    margin: 20px;
+}
